@@ -18,5 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=KavishkaBingun)](https://github.com/KavishkaBingun)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavishkaBingun&layout=compact)](https://github.com/KavishkaBingun)
+
 
 ![Snake animation](https://github.com/KavishkaBingun/KavishkaBingun/blob/output/github-contribution-grid-snake.svg)
